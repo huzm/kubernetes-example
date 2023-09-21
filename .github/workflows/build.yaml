@@ -6,7 +6,7 @@ on:
       - "main"
 
 env:
-  DOCKERHUB_USERNAME: huzm
+  DOCKERHUB_USERNAME: mingzhu0228
 
 jobs:
   docker:
